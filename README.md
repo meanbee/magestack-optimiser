@@ -6,7 +6,7 @@ This module aims to assist Magento 1.x store owners with fast/easy store improve
 
  1. Change directory to your Magento document root
 
- 1. Using `git`, clone the repository,
+ 1. Using `git` or `modman`, clone the repository,
 
          git clone https://github.com/sonassi/magestack-optimiser
 
