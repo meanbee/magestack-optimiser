@@ -1,0 +1,5 @@
+app/code/community/MageStack app/code/community/MageStack
+app/design/adminhtml/default/default/layout/* app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/* app/design/adminhtml/default/default/template/
+app/etc/modules/* app/etc/modules/
+skin/adminhtml/default/default/* skin/adminhtml/default/default/
